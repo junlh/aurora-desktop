@@ -9,7 +9,7 @@ This project projects XAML and BAML files to Windows wallpaper.
   * Implement BAML reader
   * Support Windows versions older than Windows 10
 
-## How it works?
+## How does it work?
 It makes use of C++/CLI to get "Desktop Walpaper HWND".
 Than it creates child HwndSource and loads XAML with XamlReader.
 It should be easy to implement BAML through the Baml2006Reader.
