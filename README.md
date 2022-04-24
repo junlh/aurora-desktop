@@ -3,7 +3,10 @@
 This project projects XAML files to the Windows wallpaper. 
 
 ## Usage
-Download zip from Releases and place file "Aurora.xaml" to the root of the unzipped directory. Then run "DesktopAurora.exe" and enjoy!
+* Download a zip from Releases and unzip it
+* Then, place a file "Aurora.xaml" to the root of the unzipped directory. 
+* You can download some Aurora XAMLs here: https://www.deviantart.com/dejco/art/Modified-Longhorn-aurora-xaml-96285001. 
+* Finnaly, run the "DesktopAurora.exe" and enjoy!
 
 ![Screenshot of Desktop Aurora](AuroraDesktop.png)
 
