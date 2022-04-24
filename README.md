@@ -1,6 +1,11 @@
 # Desktop Aurora
 
-This project projects XAML and BAML files to Windows wallpaper. 
+This project projects XAML files to the Windows wallpaper. 
+
+## Usage
+Download zip from Releases and place file "Aurora.xaml" to the root of the unzipped directory. Then run "DesktopAurora.exe" and enjoy!
+
+![Screenshot of Desktop Aurora](AuroraDesktop.png)
 
 ## Roadmap:
 
